@@ -60,6 +60,6 @@ Adds a new link to an interest, submitted by a person.
 {
   "link": "https://www.imdb.com/",
   "interest-id": 3,
-  "person-id": 2
+  "person-id": 1
 }
 ```
